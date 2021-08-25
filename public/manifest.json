@@ -1,0 +1,21 @@
+{
+  "name": "Boilerplate completo",
+  "short_name": "Boilerplate",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#06092B",
+  "descriotion": "Boilerplate utilizando TS, React, Nextjs, Styled-Components, Husk, linter-staged, prettier, eslint, jest, react-testing-library, storybook, PWA",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
