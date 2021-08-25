@@ -14,7 +14,7 @@ const Main = ({
     <S.Description>{description}</S.Description>
     <S.Illustration
       src="/img/Minato_Base.png"
-      alt="Imagem Minato namikase personagem ficticio do anime japones naruto top"
+      alt="Imagem Minato namikase personagem ficticio do anime japones naruto "
       height="400px"
     />
   </S.Wrapper>
