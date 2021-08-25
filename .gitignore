@@ -32,7 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+# repositorios
 .git-Boilerplate-ts-react-nextjs
+#  .git-hub
 
 # sw stuff
 plubic/sw.js

@@ -1,11 +1,10 @@
 [core]
 	repositoryformatversion = 0
-	filemode = false
+	filemode = true
 	bare = false
 	logallrefupdates = true
-	symlinks = false
 	ignorecase = true
-	hooksPath = .husky
+	precomposeunicode = true
 [remote "origin"]
 	url = https://gitlab.com/rodovalhog/react-next-graphq-strap.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
